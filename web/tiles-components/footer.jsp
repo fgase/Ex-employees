@@ -3,7 +3,7 @@
        width="100%">
 <tr>
   <td align="center">
-    Copyright
+    Copyright 2016 --
   </td>
 </tr>
 </table>
